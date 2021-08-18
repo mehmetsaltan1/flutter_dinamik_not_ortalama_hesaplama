@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Dinamil Ortalama Hesapla",
+      title: "Dinamik Ortalama Hesapla",
       theme: ThemeData(
         primarySwatch: Sabitler.anaRenk,
         visualDensity: VisualDensity.adaptivePlatformDensity,
